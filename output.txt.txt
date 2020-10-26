@@ -1,0 +1,7 @@
+[  251.604175] CMPE 283 Assignment 1 Module Start
+[  251.604181] Pinbased Controls MSR: 0x3f00000016
+[  251.604183]   External Interrupt Exiting: Can set=Yes, Can clear=Yes
+[  251.604184]   NMI Exiting: Can set=Yes, Can clear=Yes
+[  251.604185]   Virtual NMIs: Can set=Yes, Can clear=Yes
+[  251.604186]   Activate VMX Preemption Timer: Can set=No, Can clear=Yes
+[  251.604187]   Process Posted Interrupts: Can set=No, Can clear=Yes
