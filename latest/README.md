@@ -23,7 +23,7 @@ Its an individual assignment. All work is done by me: Priti Sharma(014561274)
     
  1.	Copy make and cmpe283-1.c file into a local folder on VM. "cmpe281-1.c" is updated for all the MSR instructions.
  
- 2.	Install make and GCC using below commands.
+ 2.	Install make and GCC.
  
  3.	Run “sudo make” command.
     
